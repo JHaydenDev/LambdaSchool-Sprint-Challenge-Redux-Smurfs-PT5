@@ -8,7 +8,7 @@ import './App.css';
  */
 import "./App.css";
 import { connect } from "react-redux";
-import { addSmurf, getSmurfs, updateSmurf } from "../actions";
+import { addSmurf, getSmurfs, /*updateSmurf*/ } from "../actions";
 import SmurfForm from "./SmurfForm";
 
 class App extends Component {
